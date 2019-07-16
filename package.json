@@ -1,0 +1,29 @@
+{
+  "name": "graphqlapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syjung/apollo.git"
+  },
+  "keywords": [
+    "graphql",
+    "apollo"
+  ],
+  "author": "syjung",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/syjung/apollo/issues"
+  },
+  "homepage": "https://github.com/syjung/apollo#readme",
+  "dependencies": {
+    "apollo-server-express": "^2.6.9",
+    "express": "^4.17.1",
+    "graphql": "^14.4.2",
+    "graphql-tools": "^4.0.5"
+  }
+}
